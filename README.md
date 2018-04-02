@@ -1,2 +1,2 @@
 # Project-Sit-On-Chair
-HTML workshop - creating SitOnChair website
+HTML workshop - creating simple SitOnChair website layout
